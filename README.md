@@ -1,5 +1,19 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+A reinvisioning of my previous visualizer for sorting algoithms that was written in Python, but this time it's in React.
+
+## Stacks:
+# React /w Hooks
+
+## Current Sorting Algs:
+# None
+
+## In the works:
+# Building out the framework
+
+## Known Issues:
+# None
+
 ## Available Scripts
 
 In the project directory, you can run:
